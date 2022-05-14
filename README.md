@@ -1,2 +1,2 @@
 # Restaurantwebsite
-this is my first html css project
+s my first html css project
